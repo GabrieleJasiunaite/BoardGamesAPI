@@ -1,0 +1,11 @@
+.error-404 {
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.error-404 h2 {
+    color: #dfdfdf;
+    font-size: 40px;
+}

@@ -1,0 +1,33 @@
+.categories {
+    width: 100%;
+    margin: 80px auto 0;
+    text-align: center;
+}
+
+.categories h2 {
+    margin: 0;
+    font-size: 40px;
+    color: #dfdfdf;
+    margin-bottom: 20px;
+}
+
+.categories select {
+    width: 250px;
+    height: 40px;
+    font-family: 'Comfortaa', sans-serif;
+    padding: 5px 10px;
+    background-color: #dfdfdf;
+    border: none;
+    border-radius: 5px;
+}
+
+.error {
+    width: 300px;
+    text-align: center;
+    margin: 40px auto;
+    color: #dfdfdf;
+    border: 2px solid rgb(232, 61, 61);
+    background-color: rgba(232, 61, 61, 0.7);
+    padding: 10px 0;
+    border-radius: 10px;
+}

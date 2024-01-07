@@ -1,0 +1,81 @@
+form {
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding-top: 20px;
+    color: #dfdfdf;
+}
+
+form h2 {
+    text-align: center;
+    color: #dfdfdf;
+}
+
+form label {
+    margin: 10px 0 5px;
+}
+
+form input {
+    padding: 5px;
+}
+
+form .select-categories,
+.select-categories-error {
+    border: 2px solid rgb(188, 159, 104);
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+form .select-categories p,
+.select-categories-error p {
+    margin: 0 0 10px;
+}
+
+form .select-categories input,
+.select-categories-error input {
+    margin-bottom: 5px;
+}
+
+form .select-categories label,
+.select-categories-error label {
+    margin-left: 5px;
+}
+
+form button:hover {
+    background-color: rgb(143, 122, 82);
+}
+
+form button {
+    width: 120px;
+    height: 30px;
+    margin: 20px auto 0;
+    cursor: pointer;
+    background-color: rgb(160, 135, 88);
+    color: #dfdfdf;
+    border: 2px solid rgb(188, 159, 104);
+    border-radius: 10px;
+}
+
+form button:active {
+    background-color: rgb(188, 159, 104);
+    color: black;
+}
+
+form input.input-error {
+    border: 2px solid rgb(232, 61, 61);
+}
+
+form .error {
+    border: 2px solid rgb(232, 61, 61);
+    border-radius: 10px;
+    background-color: rgba(232, 61, 61, 0.7);
+    padding: 10px 0;
+    text-align: center;
+    margin-top: 20px;
+}
+
+form .select-categories-error {
+    border: 2px solid rgb(232, 61, 61)
+}

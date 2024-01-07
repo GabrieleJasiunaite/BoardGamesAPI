@@ -1,0 +1,54 @@
+.game-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.game-details h1 {
+    font-size: 40px;
+    color: #dfdfdf;
+}
+
+.game-details .buttons button {
+    border: none;
+    padding: 8px 20px;
+    border-radius: 20px;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.game-details .buttons button.edit {
+    background-color: #08A045;
+    margin-right: 10px;
+}
+
+.game-details .buttons button.delete {
+    background-color: #D1001f;
+}
+
+.game-details img {
+    align-items: center;
+    max-width: 380px;
+    margin: 20px 0;
+}
+
+.category-container {
+    display: flex;
+}
+
+.category-container .category-bubble {
+    background-color: #dfdfdf;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+}
+
+.category-container .category-bubble:not(:last-child) {
+    margin-right: 10px;
+}
+
+.game-details p {
+    margin: 10px 0;
+    color: #dfdfdf;
+}

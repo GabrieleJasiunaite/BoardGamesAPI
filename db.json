@@ -1,0 +1,141 @@
+{
+    "games": [
+        {
+            "title": "Spirit Island",
+            "category": [
+                "strategy",
+                "co-op"
+            ],
+            "price": 79.00,
+            "imageUrl": "https://www.manohobis.com/wp-content/uploads/2022/03/spirit-island.png",
+            "complexity": 4.06,
+            "rating": 8.4
+        },
+        {
+            "title": "Twilight Struggle",
+            "category": [
+                "strategy",
+                "war-games"
+            ],
+            "price": 65.00,
+            "imageUrl": "https://ae01.alicdn.com/kf/HTB1PU0KKFXXXXcdXpXXq6xXFXXXq/HomeMade-WarGame-Twilight-Struggle-The-Cold-War-1945-1989-Deluxe-Edition-A-two-player-Board.jpg",
+            "complexity": 3.61,
+            "rating": 8.3
+        },
+        {
+            "title": "Terraforming Mars",
+            "category": [
+                "strategy",
+                "economic"
+            ],
+            "price": 45.00,
+            "imageUrl": "https://gameroom.lt/55765/terraforming-mars.jpg",
+            "complexity": 3.26,
+            "rating": 8.4
+        },
+        {
+            "title": "Mage Knight",
+            "category": [
+                "strategy",
+                "co-op"
+            ],
+            "price": 115.00,
+            "imageUrl": "https://stalozaidimai.eu/wp-content/uploads/2023/11/mage-knight-ultimate.jpg",
+            "complexity": 4.66,
+            "rating": 8.9
+        },
+        {
+            "title": "Gloomhaven",
+            "category": [
+                "strategy",
+                "thematic"
+            ],
+            "price": 139.00,
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/e/ee/Gloomhaven_Cover_Art.jpg",
+            "complexity": 3.90,
+            "rating": 8.6
+        },
+        {
+            "title": "Viticulture",
+            "category": [
+                "strategy",
+                "economic",
+                "farming", 
+                "worker placement"
+            ],
+            "price": 56.00,
+            "imageUrl": "https://mail.punchboard.co.uk/wp-content/uploads/2022/09/pic6500949.jpg",
+            "complexity": 2.93,
+            "rating": 7.5
+        },
+        {
+            "title": "This War of Mine",
+            "category": [
+                "thematic",
+                "war-games",
+                "co-op"
+            ],
+            "price": 67.00,
+            "imageUrl": "https://play-lh.googleusercontent.com/JXSijnXm1pQ9y1gW8dzQF5WSlRrm6inmAQ3cV_H_ztnNexQn0SqqjF1kPPoqrpNLmbU",
+            "complexity": 3.30,
+            "rating": 7.8
+        },
+        {
+            "title": "Sid Meier's Civilization: The Board Game",
+            "category": [
+                "strategy",
+                "civilization"
+            ],
+            "price": 59.00,
+            "imageUrl": "https://cf.geekdo-images.com/1WAfWHPi4Vvm1UCMtQaeaA__itemrep/img/yTcqoZKFqXfzC7zcRQrtIaAIwZI=/fit-in/246x300/filters:strip_icc()/pic798666.jpg",
+            "complexity": 3.90,
+            "rating": 7.4
+        },
+        {
+            "title": "7 Wonders: Duel",
+            "category": [
+                "strategy",
+                "card game",
+                "2 player"
+            ],
+            "price": 25.00,
+            "imageUrl": "https://gameroom.lt/61128/7-wonders-duel.jpg",
+            "complexity": 2.23,
+            "rating": 8.1
+        },
+        {
+            "title": "Ark Nova",
+            "category": [
+                "strategy",
+                "economic"
+            ],
+            "price": 59.00,
+            "imageUrl": "https://www.boardgamequest.com/wp-content/uploads/2022/05/Ark-Nova.jpg",
+            "complexity": 3.74,
+            "rating": 8.5
+        },
+        {
+            "title": "Brass Birmingham",
+            "category": [
+                "strategy",
+                "economic"
+            ],
+            "price": 69.00,
+            "imageUrl": "https://d3fa68hw0m2vcc.cloudfront.net/dbf/201218330.jpeg",
+            "complexity": 3.89,
+            "rating": 8.6
+        },
+        {
+            "title": "Brass Birmingham",
+            "category": [
+                "card game",
+                "thematic",
+                "party"
+            ],
+            "price": 29.00,
+            "imageUrl": "https://cf.geekdo-images.com/J-ts3MW0UhDzs621TR6cog__itemrep/img/2MRtjy32fdzTBDCvUk73dA-ZtJk=/fit-in/246x300/filters:strip_icc()/pic1871016.jpg",
+            "complexity": 1.81,
+            "rating": 5.9
+        }
+    ]
+}
